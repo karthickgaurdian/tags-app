@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.app {
+  padding: 10px;
+}
+
+.app .jumbotron {
+  text-align: center;
+}
+
+.app .card {
+  margin-bottom: 10px;
+}
+
+.app .card-header {
+  color: rgb(147, 74, 74);
+  font-weight: bold;
+}
